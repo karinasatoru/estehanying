@@ -1,0 +1,22 @@
+{
+  "name": "estehanying",
+  "version": "1.0.0",
+  "description": "estehanying",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinasatoru/estehanying.git"
+  },
+  "keywords": [
+    "estehanying"
+  ],
+  "author": "karin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karinasatoru/estehanying/issues"
+  },
+  "homepage": "https://github.com/karinasatoru/estehanying#readme"
+}
